@@ -1,6 +1,7 @@
 {
   "name": "little-lemon",
   "version": "1.0.0",
+  "homepage": "https://Eric-Obeng.github.io/Little-Lemon",
   "description": "META frontend specialization Capstone project",
   "private": "true",
   "dependencies": {
